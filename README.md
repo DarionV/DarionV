@@ -22,26 +22,35 @@ Frontend Developer Intern with a strong design background, focused on building c
 ![Tailwind CSS](https://img.shields.io/badge/WordPress-20232A?style=for-the-badge&logo=wordpress)
 ![Woocommerce](https://img.shields.io/badge/Woocommerce-20232A?style=for-the-badge&logo=woocommerce)
 ![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel)
+
+### APIs & Data
+![GraphQL](https://img.shields.io/badge/GraphQL-20232A?style=for-the-badge&logo=graphql)
+![TanstackQuery](https://img.shields.io/badge/TanstackQuery-20232A?style=for-the-badge&logo=tanstack)
+![Zod](https://img.shields.io/badge/Zod-20232A?style=for-the-badge&logo=zod)
+![RESTfulAPIs](https://img.shields.io/badge/RESTful-20232A?style=for-the-badge)
+
+### Version control
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
 
 
 ## 🧩 Tools I have experience with
-- ⚙️ Zod
-- 🔄 TanStack Query
-- 📝 TanStack Form
-- 🔐 Supabase
-- 🔔 Pusher
-- 🚀 Vercel
+- TanStack Form
+- Pusher
+- OAuth
+- Resend
 
 
 ## 🎨 Design & Creative Background
 ![Figma](https://img.shields.io/badge/UX%2FUI-Design-20232A?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=photoshop)
+![Photopea](https://img.shields.io/badge/Photopea-20232A?style=for-the-badge&logo=photopea)
+![Premiere](https://img.shields.io/badge/Premiere-20232A?style=for-the-badge&logo=premiere)
 - UX/UI Design
 - Image & Vector Editing
 - Video Editing
 - 3D modeling
 
 
-## 🛠 Tools
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
+
