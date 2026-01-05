@@ -35,14 +35,14 @@ Frontend Developer Intern with a strong design background, focused on building c
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
 
 
-## 🧩 Tools I have experience with
+## Additional tools I have experience with
 - TanStack Form
 - Pusher
 - OAuth
 - Resend
 
 
-## 🎨 Design & Creative Background
+## Design & Creative Background
 ![Figma](https://img.shields.io/badge/UX%2FUI-Design-20232A?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=photoshop)
 ![Photopea](https://img.shields.io/badge/Photopea-20232A?style=for-the-badge&logo=photopea)
