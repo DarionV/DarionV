@@ -2,6 +2,25 @@
 
 Frontend Developer Intern with a strong design background, focused on building clean, responsive, and user-friendly web applications.
 
+## ⭐ Featured Projects
+
+### Royal Riddles
+**React • JavaScript • Mantine • Figma • CSS**  
+
+A visually polished isometric chess puzzle game with a strong focus on UI and user experience.
+
+[Live Demo](https://royalriddles.com/the-bishop)
+
+[Breakdwon](https://darionvaldez.se/projects/royal-riddles)
+
+### Nostromo Terminal
+**Angular • TypeScript • Figma • CSS**  
+
+An immersive experience in a terminal from the Alien movies. Heavy focus on aestetics and effects. Everything made from scratch with vanilla CSS and SVG filters.
+
+[Live Demo](https://nostromo-terminal.netlify.app/)
+
+
 ## Skills
 
 ### Frontend
