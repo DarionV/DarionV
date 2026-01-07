@@ -11,7 +11,7 @@ A visually polished isometric chess puzzle game with a strong focus on UI and us
 
 [Live Demo](https://royalriddles.com/the-bishop)
 
-[Breakdwon](https://darionvaldez.se/projects/royal-riddles)
+[Breakdown](https://darionvaldez.se/projects/royal-riddles)
 
 ### Nostromo Terminal
 **Angular • TypeScript • Figma • CSS**  
