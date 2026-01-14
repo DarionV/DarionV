@@ -59,6 +59,7 @@ An immersive experience in a terminal from the Alien movies. Heavy focus on aest
 - Pusher
 - OAuth
 - Resend
+- Framer Motion
 
 
 ## Design & Creative Background
