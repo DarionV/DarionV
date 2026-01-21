@@ -60,6 +60,7 @@ An immersive experience in a terminal from the Alien movies. Heavy focus on aest
 - OAuth
 - Resend
 - Framer Motion
+- GSAP
 
 
 ## Design & Creative Background
